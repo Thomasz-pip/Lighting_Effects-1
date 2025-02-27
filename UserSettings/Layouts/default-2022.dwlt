@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -464,7 +464,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300007a4d0000864d0000924d00001a4c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -576,10 +576,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ea4c0000
-      m_LastClickedID: 19690
-      m_ExpandedIDs: 30fbffff
+      scrollPos: {x: 0, y: 62}
+      m_SelectedIDs: 9e530000
+      m_LastClickedID: 21406
+      m_ExpandedIDs: ceebffff38f6ffff30fbffff265100005e5100005a5300005c5300005e5300008a530000aa530000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -972,9 +972,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.2772951, y: -1.0208192, z: 23.126802}
+    m_Target: {x: -11.905999, y: 10.619004, z: -18.835815}
     speed: 2
-    m_Value: {x: -1.2772951, y: -1.0208192, z: 23.126802}
+    m_Value: {x: -11.905999, y: 10.619004, z: -18.835815}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1020,20 +1020,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: -0.15544169, y: -0.3551049, z: 0.06000836, w: -0.9198898}
     speed: 2
-    m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+    m_Value: {x: -0.15681663, y: -0.35500386, z: 0.060539193, w: -0.9196281}
   m_Size:
-    m_Target: 7.709481
+    m_Target: 0.0038398425
     speed: 2
-    m_Value: 7.709481
+    m_Value: 0.0038398425
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 1.1204399
+    m_SpeedNormalized: 0.55999994
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1118,7 +1118,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
